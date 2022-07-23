@@ -1,0 +1,4 @@
+.vscode/
+build/
+debug.sh
+gdb_cmd
